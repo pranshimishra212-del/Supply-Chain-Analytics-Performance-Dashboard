@@ -1,0 +1,152 @@
+                                                                Project Report
+                                     Supply Chain Analytics & Performance Dashboard
+                                                             Project Information
+
+Project Title: Supply Chain Analytics & Performance Dashboard
+
+Author: Pranshi Mishra
+
+Tools Used:
+
+Python (Pandas)
+MySQL Workbench
+Microsoft Power BI
+
+Dataset:
+DataCo Supply Chain Dataset
+
+Domain:
+Supply Chain Management
+
+Project Objective:
+
+The objective of this project is to analyze supply chain operations to identify key business insights related to sales performance, profitability, customer segments, shipping efficiency, product performance, and regional sales. The dashboard helps business managers monitor KPIs and make data-driven decisions to improve operational efficiency and profitability.
+
+Project Workflow:
+1. Data Collection
+Imported the DataCo Supply Chain Dataset.
+Explored dataset structure and attributes.
+
+2. Data Cleaning (Python)
+Performed data preprocessing using Pandas.
+
+Cleaning Steps:
+Loaded dataset using Pandas.
+Explored dataset information.
+Checked missing values.
+Checked duplicate records.
+Removed unnecessary columns.
+Filled missing values in customer-related fields.
+Removed the Order Zipcode column due to excessive missing values.
+Saved cleaned dataset as CSV for further analysis.
+
+3. SQL Business Analysis
+Created 20 business-focused SQL queries to answer important business questions.
+
+Key Business Questions:
+Total Orders
+Total Sales Revenue
+Total Profit
+Average Profit per Order
+Customer Segment Analysis
+Product Category Performance
+Department Profitability
+Shipping Mode Analysis
+Regional Sales Analysis
+Country-wise Orders
+City Sales Analysis
+Market Revenue Analysis
+Top Selling Products
+Category Profit Analysis
+Order Status Distribution
+Average Shipping Time
+Shipping Mode Sales
+Customer Segment Profit
+Department Order Analysis
+Average Order Value by Region
+
+4. Power BI Dashboard Development:
+Designed an interactive executive dashboard to visualize business performance.
+
+Dashboard KPIs:
+Total Sales
+Total Profit
+Total Orders
+Total Products
+Total Customers
+Average Order Value
+Average Shipping Time
+Profit Margin %
+
+Dashboard Visualizations:
+Sales by Region
+Profit by Department
+Sales by Customer Segment
+Sales by Shipping Mode
+Sales by Category
+Market Sales
+Top 10 Products
+Order Status Distribution
+
+Interactive Features:
+Shipping Mode Slicer
+Region Slicer
+Country Slicer
+Order Status Filters
+Interactive Cross Filtering
+
+Business Insights:
+
+Sales Performance:
+Certain regions contribute significantly more revenue than others.
+Product sales are concentrated among a few high-performing products.
+
+Customer Analysis:
+One customer segment generates the highest overall revenue.
+Customer purchasing behavior varies across segments.
+
+Department Performance:
+Some departments contribute substantially higher profits.
+Profitability differs across product categories.
+
+Shipping Analysis:
+Shipping modes have different average delivery times.
+Delivery performance directly impacts operational efficiency.
+
+Market Performance:
+Sales distribution varies across international markets.
+High-performing markets contribute a significant share of total revenue.
+
+Skills Demonstrated:
+
+Python
+Data Cleaning
+Missing Value Handling
+Data Preprocessing
+CSV Export
+
+SQL:
+Aggregate Functions
+GROUP BY
+ORDER BY
+COUNT(DISTINCT)
+Business Query Writing
+Revenue Analysis
+Profit Analysis
+
+Power BI:
+Data Modeling
+DAX Measures
+KPI Cards
+Interactive Dashboard Design
+Data Visualization
+Dashboard Formatting
+Slicers and Filters
+
+Project Outcome:
+
+The Supply Chain Analytics Dashboard provides a comprehensive overview of business performance by combining sales, profit, shipping, customer, and product analytics into a single interactive dashboard. It enables decision-makers to monitor operational performance, identify high-performing regions and products, analyze customer behavior, and improve supply chain efficiency.
+
+Conclusion
+
+This project demonstrates an end-to-end data analytics workflow, including data cleaning with Python, business analysis using SQL, and interactive dashboard development in Power BI. It showcases practical analytical skills and the ability to transform raw business data into meaningful insights that support strategic decision-making.
