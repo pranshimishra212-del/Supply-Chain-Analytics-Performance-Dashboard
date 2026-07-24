@@ -149,6 +149,12 @@ Supply-Chain-Analytics-Performance-Dashboard
 
 This project demonstrates a complete data analytics pipeline, transforming raw supply chain data into meaningful business insights through Python, SQL, and Power BI. The dashboard provides executives with an interactive view of operational performance, enabling informed decision-making.
 
+## 📂 Dataset
+
+Dataset: **DataCo Supply Chain Dataset**
+
+The dataset is publicly available on Kaggle and is not included in this repository to keep the repository lightweight.
+
 👩‍💻 Author
 
 Pranshi Mishra
